@@ -140,13 +140,6 @@ const Project = ({
                 url={repositoryUrl}
               />
             </Box>
-            <Box mx={1} fontSize={5}>
-              <SocialLink
-                name="See project"
-                fontAwesomeIcon="globe"
-                url={projectUrl}
-              />
-            </Box>
           </Flex>
           <ImageSubtitle
             bg="primaryLight"

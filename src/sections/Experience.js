@@ -179,8 +179,8 @@ const Experiences = () => (
               id
               name
               description
-              starting(formatString: "YYYY")
-              ending(formatString: "YYYY")
+              starting(formatString: "MMM YYYY")
+              ending(formatString: "MMM YYYY")
               url
               type
               logo {
